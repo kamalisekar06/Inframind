@@ -1,0 +1,27 @@
+Markers: true
+BoundBox: true
+Background: skyblue
+Ticks: true
+NoLines: false
+YUnitText: Throughput
+XUnitText: Node
+LabelFont: Monospace
+TitleFont: Monospace
+Geometry: 1280x800
+
+
+"pro_ratio"
+50 0.942
+100 0.950
+150 0.962
+200 0.977
+250 0.978
+
+"exe_ratio"
+50 0.619
+100 0.633
+150 0.645
+200 0.660
+250 0.647
+
+

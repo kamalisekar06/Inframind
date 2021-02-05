@@ -1,0 +1,28 @@
+Markers: true
+BoundBox: true
+Background: skyblue
+Ticks: true
+NoLines: false
+YUnitText: DropRatio
+XUnitText: Time
+LabelFont: Monospace
+TitleFont: Monospace
+Geometry: 1280x800
+
+"Exist_Ene"
+0.5 0.356
+1.0 0.396
+1.5 0.456
+2.0 0.512
+2.5 0.654
+
+"Prop"
+0.5 0.456
+1.0 0.539
+1.5 0.597
+2.0 0.645
+2.5 0.734
+
+
+
+

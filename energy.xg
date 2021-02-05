@@ -1,0 +1,25 @@
+Markers: true
+BoundBox: true
+Background: skyblue
+Ticks: true
+NoLines: false
+YUnitText: Overhead
+XUnitText: Time
+LabelFont: Monospace
+TitleFont: Monospace
+Geometry: 1280x800
+
+"Exist_pow"
+5 80
+10 103
+15 138
+20 145
+25 159
+
+"Prop_pow"
+5 100
+10 140
+15 165
+20 172
+25 195
+
